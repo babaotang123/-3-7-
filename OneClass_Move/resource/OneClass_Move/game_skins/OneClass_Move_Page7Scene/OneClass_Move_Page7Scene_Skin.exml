@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page7Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="OneClass_Move_page_scene_bg7_jpg" x="0" y="0"/>
+			<e:Image id="img0" source="OneClass_Move_big_page_scene7_json.OneClass_Move_7-1" x="1352" y="1146" anchorOffsetX="62" anchorOffsetY="122"/>
+			<e:Rect id="rect0" width="1370" height="254" x="192" y="702" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+
+    </e:Group>
+</e:Skin>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page14Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" x="0" y="0" source="15_1_jpg" locked="true"/>
+
+			<e:Image id="btn_reset" source="main_preload_json.main_btn_puase_png" x="1483" y="1274.5" locked="true"/>
+			<e:Image id="img_0" source="15_2_png" x="1198.97" y="844.39" anchorOffsetX="49" anchorOffsetY="96.5" locked="true"/>
+			<e:Image id="img_1" source="15_1_png" x="1330" y="838" anchorOffsetX="48.5" anchorOffsetY="90.5" locked="true"/>
+			<e:Rect id="r_1" width="1252" height="394" x="777.39" y="538.24" anchorOffsetX="621.39" anchorOffsetY="192.24" alpha="0"/>
+    </e:Group>
+</e:Skin>

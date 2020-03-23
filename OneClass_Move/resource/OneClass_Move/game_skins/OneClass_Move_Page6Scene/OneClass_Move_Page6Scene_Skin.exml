@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page6Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="OneClass_Move_page_scene_bg6_jpg" x="0" y="0"/>
+    <e:Image id="img0" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-1" x="191.52" y="1207.08" anchorOffsetX="57.58" anchorOffsetY="84.85"/>
+			<e:Image id="img1" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-2" x="312.94" y="1208.23" anchorOffsetX="58" anchorOffsetY="86"/>
+			<e:Image id="img2" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-3" x="443.96" y="1207.08" anchorOffsetX="57.58" anchorOffsetY="84.85"/>
+			<e:Image id="img3" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-4" x="569.5" y="1207.08" anchorOffsetX="62.12" anchorOffsetY="84.85"/>
+			<e:Image id="img4" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-5" x="701.52" y="1207.08" anchorOffsetX="57.58" anchorOffsetY="84.85"/>
+			<e:Image id="img5" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-6" x="824.94" y="1206.23" anchorOffsetX="60" anchorOffsetY="84"/>
+			<e:Image id="img6" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-7" x="953.96" y="1207.08" anchorOffsetX="57.58" anchorOffsetY="84.85"/>
+			<e:Image id="img7" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-8" x="1077.38" y="1206.23" anchorOffsetX="60" anchorOffsetY="84"/>
+			<e:Image id="img8" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-9" x="1203.36" y="1207.08" anchorOffsetX="57.58" anchorOffsetY="84.85"/>
+			<e:Image id="img9" source="OneClass_Move_big_page_scene4_json.OneClass_Move_4-10" x="1328.78" y="1206.23" anchorOffsetX="62" anchorOffsetY="84"/>
+			<e:Rect id="rect0" width="187.33" height="182.79" x="602.82" y="1041.9" anchorOffsetX="95.5" anchorOffsetY="91.39" fillAlpha="0"/>
+    </e:Group>
+</e:Skin>

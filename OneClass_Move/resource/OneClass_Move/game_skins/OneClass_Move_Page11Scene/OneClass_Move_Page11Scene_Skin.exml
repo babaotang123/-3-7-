@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page11Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="OneClass_Move_page_scene_bg11_jpg" x="0" y="0"/>
+			<e:Image id="img0" source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="340.85" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="453.84" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img1"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="565.99" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img2"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="678.98" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img3"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="788.71" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img4"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="901.7" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img5"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="1013.85" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img6"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="1126.84" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img7"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="1237.48" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img8"/>
+			<e:Image source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-1" x="1350.47" y="379.45" anchorOffsetX="56.06" anchorOffsetY="56.06" id="img9"/>
+			<e:Image id="img10" source="OneClass_Move_big_page_scene11_json.OneClass_Move_11-2" x="782.09" y="1009.48" anchorOffsetX="59.09" anchorOffsetY="59.09"/>
+			<e:Rect id="rect0" width="1141.21" height="148.79" x="273" y="448" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+
+    </e:Group>
+</e:Skin>

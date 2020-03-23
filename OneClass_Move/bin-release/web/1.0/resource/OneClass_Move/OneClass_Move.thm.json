@@ -1,0 +1,23 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/gamemain/game_skins/ClassOverScene/GetStarScene_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/CommonButton_Skin.exml",
+		"resource/gamemain/game_skins/CommonDlg/Dlg_CommonMovie_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page10Scene/OneClass_Move_Page10Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page11Scene/OneClass_Move_Page11Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page12Scene/OneClass_Move_Page12Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page13Scene/OneClass_Move_Page13Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page1Scene/OneClass_Move_Page1Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page2Scene/OneClass_Move_Page2Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page3Scene/OneClass_Move_Page3Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page4Scene/OneClass_Move_Page4Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page5Scene/OneClass_Move_Page5Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page6Scene/OneClass_Move_Page6Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page7Scene/OneClass_Move_Page7Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page8Scene/OneClass_Move_Page8Scene_Skin.exml",
+		"resource/OneClass_Move/game_skins/OneClass_Move_Page9Scene/OneClass_Move_Page9Scene_Skin.exml"
+	],
+	"path": "resource/OneClass_Move/OneClass_Move.thm.json"
+}

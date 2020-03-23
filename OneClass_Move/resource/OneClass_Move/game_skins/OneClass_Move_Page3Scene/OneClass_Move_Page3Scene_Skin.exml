@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page3Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="OneClass_Move_page_scene_bg3_jpg" x="0" y="0"/>
+    <e:Image id="dc" source="OneClass_Move_big_page_scene2_json.OneClass_Move_2-1" x="761" y="276"/>
+			<e:Image id="img0" x="310" y="834" anchorOffsetX="76" anchorOffsetY="76" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2"/>
+			<e:Image id="img1" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="440" y="834" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img2" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="571" y="832" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img3" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="705" y="832" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img4" x="860" y="832" anchorOffsetX="76" anchorOffsetY="76" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2"/>
+			<e:Image id="img5" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="982" y="832" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img6" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="1105" y="832" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img7" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="1225" y="832" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img8" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="1346" y="830" anchorOffsetX="76" anchorOffsetY="76"/>
+			<e:Image id="img9" source="OneClass_Move_big_page_scene3_json.OneClass_Move_3-2" x="1468" y="830" anchorOffsetX="76" anchorOffsetY="76"/>
+
+
+
+
+
+
+			<e:Rect id="rect0" width="136" height="150" x="866.86" y="531.95" anchorOffsetX="68.86" anchorOffsetY="75.95" fillAlpha="0"/>
+			<e:Rect id="rect1" width="136" height="150" x="986.86" y="529.95" anchorOffsetX="68.86" anchorOffsetY="75.95" fillAlpha="0"/>
+			<e:Rect id="rect2" width="136" height="150" x="1110.86" y="527.95" anchorOffsetX="68.86" anchorOffsetY="75.95" fillAlpha="0"/>
+
+			<e:Group id="group0" width="142" height="154" x="1326" y="978" anchorOffsetX="0" anchorOffsetY="0"/>
+    </e:Group>
+</e:Skin>

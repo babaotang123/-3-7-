@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OneClass_Move_Page12Scene_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="OneClass_Move_page_scene_bg12_jpg" x="0" y="0"/>
+			<e:Image id="img0" source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="347.33" y="398" anchorOffsetX="37.33" anchorOffsetY="92"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="445.21" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img1"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="545.21" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img2"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="643.09" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img3"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="737.02" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img4"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="837.02" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img5"/>
+			<e:Image source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-1" x="934.9" y="398" anchorOffsetX="37.33" anchorOffsetY="92" id="img6"/>
+			<e:Image id="img7" source="OneClass_Move_big_page_scene12_json.OneClass_Move_12-2" x="782.41" y="1016.77" anchorOffsetX="39.39" anchorOffsetY="89.39"/>
+			<e:Rect id="rect0" width="436.66" height="192.72" x="964.85" y="305.85" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+			<e:Rect width="1119.99" height="186.66" x="289.55" y="498.57" anchorOffsetX="0" anchorOffsetY="0" id="rect1" fillAlpha="0"/>
+
+    </e:Group>
+</e:Skin>

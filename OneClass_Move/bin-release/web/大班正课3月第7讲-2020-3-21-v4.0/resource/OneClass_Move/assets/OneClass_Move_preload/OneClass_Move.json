@@ -1,0 +1,60 @@
+{
+    "courseware": [
+        {
+            "name": "OneClass_Move_Page1Scene",
+            "curLoad": "OneClass_Move_page_scene1"
+        },
+        {
+            "name": "OneClass_Move_Page2Scene",
+            "curLoad": "OneClass_Move_page_scene2"
+        },
+        {
+            "name": "OneClass_Move_Page3Scene",
+            "curLoad": "OneClass_Move_page_scene3"
+        },
+        {
+            "name": "OneClass_Move_Page4Scene",
+            "curLoad": "OneClass_Move_page_scene4"
+        },
+        {
+            "name": "OneClass_Move_Page5Scene",
+            "curLoad": "OneClass_Move_page_scene5"
+        },
+        {
+            "name": "OneClass_Move_Page6Scene",
+            "curLoad": "OneClass_Move_page_scene6"
+        },
+        {
+            "name": "OneClass_Move_Page7Scene",
+            "curLoad": "OneClass_Move_page_scene7"
+        },
+        {
+            "name": "OneClass_Move_Page8Scene",
+            "curLoad": "OneClass_Move_page_scene8"
+        },
+        {
+            "name": "OneClass_Move_Page9Scene",
+            "curLoad": "OneClass_Move_page_scene9"
+        },
+        {
+            "name": "OneClass_Move_Page11Scene",
+            "curLoad": "OneClass_Move_page_scene11"
+        },
+        {
+            "name": "OneClass_Move_Page12Scene",
+            "curLoad": "OneClass_Move_page_scene12"
+        },
+        {
+            "name": "OneClass_Move_Page13Scene",
+            "curLoad": "OneClass_Move_page_scene13"
+        },
+        {
+            "name": "OneClass_Move_Page14Scene",
+            "curLoad": "OneClass_Move_page_scene14"
+        },
+        {
+            "name": "OneClass_Move_Page15Scene",
+            "curLoad": "OneClass_Move_page_scene15"
+        }
+    ]
+}
